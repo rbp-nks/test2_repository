@@ -48,4 +48,5 @@
   
 ## 4.　カメラの配置  
 　　カメラにマーカを読み込ませて遊ぶゲームです。カメラの配置の仕方はnasubichanの  
-     　　(nasubichan/igakilab/shared/eins)にある写真(カメラ配置画像)を参考にして下さい。
+     　　(nasubichan/igakilab/shared/eins)にある写真(カメラ配置画像)を参考にして下さい。  
+       
